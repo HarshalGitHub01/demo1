@@ -6,7 +6,3 @@ This is the first file in the git repo
 # second commit
 
 some more lines 
-
-# Add some lines 
-
-some more lines
